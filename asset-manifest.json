@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/router-project/static/css/main.bfc90459.css",
+    "main.js": "/router-project/static/js/main.8fe9cbfe.js",
+    "static/media/signup.png": "/router-project/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/router-project/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/router-project/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/router-project/static/media/Logo.fd896773ef070a122541fd8722efa10f.svg",
+    "index.html": "/router-project/index.html",
+    "main.bfc90459.css.map": "/router-project/static/css/main.bfc90459.css.map",
+    "main.8fe9cbfe.js.map": "/router-project/static/js/main.8fe9cbfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfc90459.css",
+    "static/js/main.8fe9cbfe.js"
+  ]
+}
